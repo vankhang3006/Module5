@@ -33,6 +33,7 @@ class StudentInfoComponent extends Component {
                 email: "",
             },
             editingId: null, // ID của sinh viên đang được chỉnh sửa
+            isValid: false,
         };
     }
 
@@ -45,10 +46,16 @@ class StudentInfoComponent extends Component {
             },
         }));
     };
-
+    checkInvalidForm = () => {
+        const { name, phone, email } = this.state.newItem
+        const value = name && phone && email
+        this.setState({
+            isValid: value
+        })
+    }
     handleAddStudent = () => {
         const newItem = { ...this.state.newItem };
-        newItem.id = (studentList.length + 1).toString();
+        newItem.id = (this.state.list.length + 1).toString();
 
         if (newItem.id && newItem.name && newItem.phone && newItem.email) {
             const updatedList = [...this.state.list, newItem];
@@ -60,7 +67,7 @@ class StudentInfoComponent extends Component {
                     phone: "",
                     email: "",
                 },
-            });
+            }, () => this.checkInvalidForm());
         }
     };
 
