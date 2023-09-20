@@ -6,7 +6,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 table{
-  margin: 0 auto; /* Căn giữa theo chiều ngang */
   border:1px solid black;
 }
 th{

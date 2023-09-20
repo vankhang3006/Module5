@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import {StudentInfoComponent} from "./components/StudentInfoComponent";
-
+import StudentInfoComponent from './components/StudentInfoComponent';
+import {} from 'react-router-dom';
 function App() {
   return (
-      <StudentInfoComponent/>
+      <div className="App">
+          <StudentInfoComponent></StudentInfoComponent>
+      </div>
   );
 }
 
