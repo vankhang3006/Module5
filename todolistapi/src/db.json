@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Mua thực phẩm"
+    },
+    {
+      "id": 2,
+      "task": "Làm bài tập lập trình"
+    },
+    {
+      "id": 3,
+      "task": "Đi dạo"
+    }
+  ]
+}

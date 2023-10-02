@@ -20,30 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b85941ad-4208-4b1c-8cb1-5223feabbc9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/medical.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1695814421148</updated>
       <workItem from="1695814422637" duration="4629000" />
-      <workItem from="1695832234768" duration="1427000" />
+      <workItem from="1695832234768" duration="1594000" />
+      <workItem from="1695986283580" duration="51000" />
     </task>
     <servers />
   </component>
@@ -121,21 +99,21 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="545" y="143" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1695832307705" />
-    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1695824756267">
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1695833833213">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1695824756267" />
-    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1695824756267">
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1695833833213" />
+    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1695833833213">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1695824756267" />
-    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1695824756267">
+    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1695833833213" />
+    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1695833833212">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1695824756267" />
-    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1695824756267">
+    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1695833833212" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1695833833213">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1695824756267" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1695833833213" />
   </component>
 </project>

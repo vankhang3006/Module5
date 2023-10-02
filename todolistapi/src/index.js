@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import {BrowserRouter} from "react-router-dom";
+import {Dna} from "react-loader-spinner"
+import {Todo} from "./components/Todo";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRoute>
-    <App />
-  </BrowserRoute>
+  <BrowserRouter>
+    <App/>
+  </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
