@@ -19,19 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="595f541f-21d3-4d38-9e15-611a79e6214b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BookDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/.idea/library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/src/components/Create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/src/components/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/src/components/Update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../library/src/services/LibraryService.js" afterDir="false" />
+    <list default="true" id="7452a798-41c1-452d-8ddb-b414b25a5767" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../book/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/components/BookDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/src/components/Books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Update.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/LibraryService.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolistapi/src/components/Create.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../todolistapi/src/components/List.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../user/.gitignore" afterDir="false" />
@@ -60,13 +60,13 @@
       <change afterPath="$PROJECT_DIR$/../user/src/pages/Users.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../user/src/reportWebVitals.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../user/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Create.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/List.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/BookService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../book/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../book/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../book/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/src/components/Create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/src/components/List.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../book/src/services/BookService.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolistapi/src/components/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todolistapi/src/components/Todo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../todolistapi/src/services/TodoService.js" beforeDir="false" />
     </list>
@@ -85,7 +85,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2WCnsteBMU3gHww8nEBokLJ81us" />
+  <component name="ProjectId" id="2WOOxp3yrj58PYGWsie3QuzGSfA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -96,7 +96,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -138,18 +138,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="595f541f-21d3-4d38-9e15-611a79e6214b" name="Default Changelist" comment="" />
-      <created>1696245639215</created>
+      <changelist id="7452a798-41c1-452d-8ddb-b414b25a5767" name="Default Changelist" comment="" />
+      <created>1696600408819</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1696245639215</updated>
-      <workItem from="1696245640827" duration="421000" />
-      <workItem from="1696247023597" duration="3612000" />
-      <workItem from="1696255812426" duration="957000" />
-      <workItem from="1696263668997" duration="4072000" />
-      <workItem from="1696504764652" duration="3344000" />
-      <workItem from="1696520100883" duration="1936000" />
-      <workItem from="1696580346687" duration="8739000" />
+      <updated>1696600408819</updated>
+      <workItem from="1696600410264" duration="963000" />
+      <workItem from="1696601474558" duration="1864000" />
     </task>
     <servers />
   </component>
@@ -169,29 +164,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="495" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1696590642309">
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1696601585005">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="495" y="135" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1696590642309" />
-    <state x="545" y="143" key="FileChooserDialogImpl" timestamp="1696504853602">
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1696601585005" />
+    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1696601585004">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="545" y="143" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1696504853602" />
-    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1696601365035">
+    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1696601585004" />
+    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1696601585003">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1696601365035" />
-    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1696601365035">
+    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1696601585003" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1696601585004">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1696601365035" />
-    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1696601365035">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1696601365035" />
-    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1696601365035">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1696601365035" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1696601585004" />
   </component>
 </project>

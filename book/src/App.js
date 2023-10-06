@@ -1,20 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
-import {List} from "./components/List";
-import {NavLink, Routes, Route} from "react-router-dom";
-import {Create} from "./components/Create";
+import React from 'react';
+import Books from './components/Books';
+import BookDetails from "./components/BookDetails";
 
-function App() {
-  return (
+import { Routes, Route } from 'react-router-dom';
+
+export default function App() {
+    return (
         <>
-            <NavLink to='/'>Home</NavLink>
-            <NavLink to='/create'>Create</NavLink>
             <Routes>
-                <Route path="/" element={<List />}></Route>
-                <Route path="/create" element={<Create />}></Route>
+                <Route path="/" element={<Books />} />
+                <Route path={"/book/add"} element={<BookDetails />} />
+                <Route path={`/book/:bookId`} element={<BookDetails />} />
             </Routes>
         </>
     );
 }
-
-export default App;
