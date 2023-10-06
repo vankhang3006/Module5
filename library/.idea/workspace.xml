@@ -20,55 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7452a798-41c1-452d-8ddb-b414b25a5767" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../book/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book/src/components/BookDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../book/src/components/Books.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Update.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/LibraryService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todolistapi/src/components/Create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../todolistapi/src/components/List.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/user.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/pages/UserDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/pages/Users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../book/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../book/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../book/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/src/components/Create.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/src/components/List.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../book/src/services/BookService.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todolistapi/src/components/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todolistapi/src/components/Todo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../todolistapi/src/services/TodoService.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/redux.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/UserList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/redux/Store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/redux/middleware/UserMiddleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/redux/reducer/RootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/redux/reducer/UserReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/services/UserService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1696600408819</updated>
       <workItem from="1696600410264" duration="963000" />
-      <workItem from="1696601474558" duration="1864000" />
+      <workItem from="1696601474558" duration="1958000" />
+      <workItem from="1696609175460" duration="2492000" />
     </task>
     <servers />
   </component>
@@ -164,21 +126,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1696601585005">
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom" timestamp="1696606621076">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1696601585005" />
-    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1696601585004">
+    <state width="1364" height="192" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1696606621076" />
+    <state width="1364" height="192" key="GridCell.Tab.0.center" timestamp="1696606621076">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1696601585004" />
-    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1696601585003">
+    <state width="1364" height="192" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1696606621076" />
+    <state width="1364" height="192" key="GridCell.Tab.0.left" timestamp="1696606621076">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1696601585003" />
-    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1696601585004">
+    <state width="1364" height="192" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1696606621076" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right" timestamp="1696606621076">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1696601585004" />
+    <state width="1364" height="192" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1696606621076" />
   </component>
 </project>
