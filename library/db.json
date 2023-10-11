@@ -16,14 +16,9 @@
       "quantity": 120
     },
     {
+      "id": "4",
       "title": "hi",
-      "quantity": "80",
-      "id": "4"
-    },
-    {
-      "title": "hi",
-      "quantity": "40",
-      "id": "5"
+      "quantity": "80"
     }
   ]
 }

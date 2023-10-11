@@ -1,0 +1,58 @@
+{
+  "covids": [
+    {
+      "Country":"Viet Nam",
+      "CountryCode":"1",
+      "Province":"3",
+      "City":"1",
+      "CityCode":"1",
+      "Lat":"2",
+      "Lon":"3",
+      "Confirmed":6,
+      "Deaths":1,
+      "Recovered":2,
+      "Active":3,
+      "Date":"2020-01-22T00:00:00Z"
+    },
+    {
+      "Country":"Viet Nam",
+      "CountryCode":"1",
+      "Province":"3",
+      "City":"1",
+      "CityCode":"1",
+      "Lat":"2",
+      "Lon":"3",
+      "Confirmed":10,
+      "Deaths":3,
+      "Recovered":1,
+      "Active":3,
+      "Date":"2021-01-22T00:00:00Z"
+    },{
+      "Country":"Viet Nam",
+      "CountryCode":"1",
+      "Province":"3",
+      "City":"1",
+      "CityCode":"1",
+      "Lat":"2",
+      "Lon":"3",
+      "Confirmed":3,
+      "Deaths":0,
+      "Recovered":1,
+      "Active":1,
+      "Date":"2021-04-22T00:00:00Z"
+    },{
+      "Country":"Viet Nam",
+      "CountryCode":"1",
+      "Province":"3",
+      "City":"1",
+      "CityCode":"1",
+      "Lat":"2",
+      "Lon":"3",
+      "Confirmed":11,
+      "Deaths":3,
+      "Recovered":5,
+      "Active":5,
+      "Date":"2022-01-22T00:00:00Z"
+    }
+  ]
+}
