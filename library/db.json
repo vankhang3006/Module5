@@ -19,6 +19,21 @@
       "id": "4",
       "title": "hi",
       "quantity": "80"
+    },
+    {
+      "id": "5",
+      "title": "Harry Potter",
+      "quantity": "130"
+    },
+    {
+      "id": "6",
+      "title": "Forrest Gump",
+      "quantity": "20"
+    },
+    {
+      "id": "7",
+      "title": "Dế mèn phiêu lưu ký ",
+      "quantity": "56"
     }
   ]
 }
